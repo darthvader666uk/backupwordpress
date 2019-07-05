@@ -33,7 +33,7 @@ Read our [contributing.md](https://github.com/xibodevelopment/backupwordpress/bl
 BackUpWordPress is licensed under the GPLv2 or later.
 
 ## Credits
-Maintained by [XIBO Ltd](https://github.com/xibodevelopment).
+Maintained by [XIBO Development](https://github.com/xibodevelopment).
 
 Created by Human Made for high volume and large-scale sites. BackUpWordPress is used on over 200,000 sites worldwide.
 

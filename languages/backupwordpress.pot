@@ -1,4 +1,4 @@
-# Copyright (C) 2018 XIBO Ltd
+# Copyright (C) 2018 XIBO Development
 # This file is distributed under the GPL-2+.
 msgid ""
 msgstr ""
@@ -9,8 +9,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
-"Last-Translator: XIBO Ltd\n"
-"Language-Team: XIBO Ltd\n"
+"Last-Translator: XIBO Development\n"
+"Language-Team: XIBO Development\n"
 "X-Generator: grunt-wp-i18n1.0.2\n"
 
 #: admin/actions.php:234 tmp/3.7.1/admin/actions.php:234
@@ -1309,7 +1309,7 @@ msgid ""
 msgstr ""
 
 #. Author of the plugin/theme
-msgid "XIBO Ltd"
+msgid "XIBO Development"
 msgstr ""
 
 #. Author URI of the plugin/theme
